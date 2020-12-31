@@ -1,0 +1,15 @@
+{
+    "urls": [],
+    "config": {
+        "title": {
+            "tag": "div",
+            "class_name": "ditconmemay",
+            "id": null
+        },
+        "text": {
+            "tag": "p",
+            "class_name": "Normal",
+            "id": null
+        }
+    }
+}
