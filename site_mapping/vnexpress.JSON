@@ -1,5 +1,5 @@
 {
-    "urls": [],
+    "domain": "vnexpress.vn",
     "config": {
         "title": {
             "tag": "div",
@@ -8,8 +8,10 @@
         },
         "text": {
             "tag": "p",
-            "class_name": "Normal",
-            "id": null
+            "tag_selector": {
+                "class_name": "ditconmemay",
+                "id": null
+            }
         }
     }
 }
