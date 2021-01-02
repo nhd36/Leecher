@@ -1,25 +1,25 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "vietnambiz.vn",
     "config": {
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title-detail",
+				"class_name": "vnbcb-title",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "vnbcbc-sapo",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
-                "id": null
+                "class_name": "vnbcbc-body vceditor-content",
+                "id": "vnb-detail-content"
             }
         }
     }

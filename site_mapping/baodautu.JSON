@@ -1,25 +1,25 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "baodautu.vn",
     "config": {
         "title": {
-            "tag": "h1",
+            "tag": "div",
 				"tag_selector": {
 				"class_name": "title-detail",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "sapo_detail",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
-                "id": null
+                "class_name": null,
+                "id": "content_detail_news"
             }
         }
     }

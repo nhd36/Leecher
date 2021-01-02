@@ -1,24 +1,24 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "dantri.com.vn",
     "config": {
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title-detail",
+				"class_name": "dt-news__title",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "dt-news__sapo",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
+                "class_name": "dt-news__content",
                 "id": null
             }
         }

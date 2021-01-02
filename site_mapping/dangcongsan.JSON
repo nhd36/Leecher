@@ -1,24 +1,24 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "dangcongsan.vn",
     "config": {
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title-detail",
+				"class_name": "post-title",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "post-summary",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
+                "class_name": "post-content",
                 "id": null
             }
         }

@@ -1,24 +1,24 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "baomoi.com",
     "config": {
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title-detail",
+				"class_name": "article__header",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "article__sapo",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
+                "class_name": "article__body",
                 "id": null
             }
         }

@@ -1,25 +1,25 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "kinhtedothi.vn",
     "config": {
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title-detail",
+				"class_name": "title_detail_news",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "sapo_detail fr",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
-                "id": null
+                "class_name": "pkg",
+                "id": "cotent_detail"
             }
         }
     }

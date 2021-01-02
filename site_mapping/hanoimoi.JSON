@@ -1,0 +1,19 @@
+{
+    "domain": "hanoimoi.com.vn",
+    "config": {
+        "title": {
+            "tag": "h1",
+			"tag_selector": {
+				"class_name": "caption",
+	            "id": null
+						}
+        },
+        "text": {
+            "tag": "div",
+            "tag_selector": {
+                "class_name": "article",
+                "id": null
+            }
+        }
+    }
+}

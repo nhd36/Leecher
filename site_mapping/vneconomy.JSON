@@ -1,24 +1,24 @@
 {
-    "domain": "vnexpress.vn",
+    "domain": "vneconomy.vn",
     "config": {
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title-detail",
+				"class_name": "title",
 	            "id": null
 						}
         },
         "description": {
-            "tag": "p",
+            "tag": "h2",
                 "tag_selector": {
-                "class_name": "description",
+                "class_name": "sapo",
                 "id": null
                 }
         },
         "text": {
-            "tag": "p",
+            "tag": "div",
                 "tag_selector": {
-                "class_name": "Normal",
+                "class_name": "contentdetail",
                 "id": null
             }
         }
