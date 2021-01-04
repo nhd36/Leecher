@@ -1,1 +1,0 @@
-# Các file JSON chứa config để leech cho từng domain

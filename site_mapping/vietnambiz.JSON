@@ -3,22 +3,20 @@
     "config": {
         "title": {
             "tag": "h1",
-				"tag_selector": {
-				"class_name": "vnbcb-title",
-	            "id": null
-						}
+			"tag_selector": {
+                "class": "vnbcb-title"
+            }
         },
         "description": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "vnbcbc-sapo",
-                "id": null
-                }
+            "tag_selector": {
+                "class": "vnbcbc-sapo"
+            }
         },
         "text": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "vnbcbc-body vceditor-content",
+            "tag_selector": {
+                "class": "vnbcbc-body vceditor-content",
                 "id": "vnb-detail-content"
             }
         }

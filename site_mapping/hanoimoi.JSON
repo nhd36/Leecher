@@ -4,15 +4,13 @@
         "title": {
             "tag": "h1",
 			"tag_selector": {
-				"class_name": "caption",
-	            "id": null
-						}
+                "class": "caption"
+            }
         },
         "text": {
             "tag": "div",
             "tag_selector": {
-                "class_name": "article",
-                "id": null
+                "class": "article"
             }
         }
     }

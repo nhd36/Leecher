@@ -3,23 +3,20 @@
     "config": {
         "title": {
             "tag": "h1",
-				"tag_selector": {
-				"class_name": "dt-news__title",
-	            "id": null
-						}
+			"tag_selector": {
+				"class": "dt-news__title"
+		    }
         },
         "description": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "dt-news__sapo",
-                "id": null
-                }
+            "tag_selector": {
+                "class": "dt-news__sapo"
+            }
         },
         "text": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "dt-news__content",
-                "id": null
+            "tag_selector": {
+                "class": "dt-news__content"
             }
         }
     }

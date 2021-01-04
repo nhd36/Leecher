@@ -1,21 +1,8 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from modules.crawler import SuperWebCrawler
+from config import ConfigURL
 
-url = "https://vnexpress.net/gdp-nam-2020-co-the-chi-tang-5-96-4054079.html"
+configURL = ConfigURL.generate_config_object()
+crawler = SuperWebCrawler(configURL)
 
-browser = webdriver.Chrome()
-browser.get(url)
-
-title = browser.find_element_by_class_name('title-detail')
-description = browser.find_element_by_class_name('description')
-texts = browser.find_elements_by_class_name('Normal')
-
-len_text = len(texts)
-
-print(title.text)
-print(description.text)
-
-for i in range(len_text):
-    print(texts[i].text)
-
-browser.quit()
+url = "https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn"
+crawler.run_program(url, "1234")

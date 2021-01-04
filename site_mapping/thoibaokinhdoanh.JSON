@@ -3,23 +3,20 @@
     "config": {
         "title": {
             "tag": "h1",
-				"tag_selector": {
-				"class_name": "title_news",
-	            "id": null
-						}
+			"tag_selector": {
+                "class": "title_news"
+            }
         },
         "description": {
             "tag": "h2",
-                "tag_selector": {
-                "class_name": "description",
-                "id": null
-                }
+            "tag_selector": {
+                "class": "description"
+            }
         },
         "text": {
             "tag": "article",
-                "tag_selector": {
-                "class_name": "fck_detail",
-                "id": null
+            "tag_selector": {
+                "class": "fck_detail"
             }
         }
     }

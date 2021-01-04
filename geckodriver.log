@@ -485,3 +485,148 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1609517478716	Marionette	WARN	TLS certificate errors will be ignored for this session
 1609517481146	Marionette	INFO	Stopped listening on port 37499
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile3FUYEJ/protections.sqlite
+1609769651076	geckodriver	INFO	Listening on 127.0.0.1:49953
+1609769652081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5M9RL0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609769654188	Marionette	INFO	Listening on port 45693
+1609769654312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript error: https://s0.2mdn.net/dfp/1920020/4925780157/1608288801036/index.html, line 106: TypeError: obj is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1609769714017	Marionette	INFO	Stopped listening on port 45693
+1609769716470	geckodriver	INFO	Listening on 127.0.0.1:36187
+1609769716477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLpWxq4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609769718530	Marionette	INFO	Listening on port 37329
+1609769718611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609769720878	Marionette	INFO	Stopped listening on port 37329
+1609769811595	geckodriver	INFO	Listening on 127.0.0.1:55157
+1609769811602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRr3sK8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609769814336	Marionette	INFO	Listening on port 37163
+1609769814455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609769818955	Marionette	INFO	Stopped listening on port 37163
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileRr3sK8/protections.sqlite
+1609769855903	geckodriver	INFO	Listening on 127.0.0.1:45127
+1609769855911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVmp0Om"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609769858856	Marionette	INFO	Listening on port 33131
+1609769858960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609769861815	Marionette	INFO	Stopped listening on port 33131
+1609769914944	geckodriver	INFO	Listening on 127.0.0.1:58267
+1609769914959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelUuPBS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609769917918	Marionette	INFO	Listening on port 38013
+1609769918028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609769922779	Marionette	INFO	Stopped listening on port 38013
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilelUuPBS/protections.sqlite
+1609769944251	geckodriver	INFO	Listening on 127.0.0.1:47367
+1609769944262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYGOGaz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609769947179	Marionette	INFO	Listening on port 38439
+1609769947295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609769950776	Marionette	INFO	Stopped listening on port 38439
+1609770039010	geckodriver	INFO	Listening on 127.0.0.1:50649
+1609770039017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehikcPt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609770042493	Marionette	INFO	Listening on port 45493
+1609770042574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3587988562863972, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.3587988562863972, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+1609770045208	Marionette	INFO	Stopped listening on port 45493
+JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b[a] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilehikcPt/protections.sqlite
+1609773033299	geckodriver	INFO	Listening on 127.0.0.1:36475
+1609773034304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef8LzUr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609773036640	Marionette	INFO	Listening on port 45941
+1609773036729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.21209598328542245, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.21209598328542245, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+1609773040477	Marionette	INFO	Stopped listening on port 45941
+JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b[a] is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3C0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609773126599	geckodriver	INFO	Listening on 127.0.0.1:35647
+1609773126615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqE6oa4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609773128229	Marionette	INFO	Listening on port 44433
+1609773128343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6892557508292035, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.6892557508292035, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+1609773132207	Marionette	INFO	Stopped listening on port 44433
+JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b[a] is undefined
+1609773368042	geckodriver	INFO	Listening on 127.0.0.1:55283
+1609773368069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ulFfU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609773369934	Marionette	INFO	Listening on port 33991
+1609773369998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5330508597013361, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.5330508597013361, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+1609773384200	Marionette	INFO	Stopped listening on port 33991
+JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b[a] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile2ulFfU/protections.sqlite
+1609774459857	geckodriver	INFO	Listening on 127.0.0.1:58525
+1609774459860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKBKZrq"
+*** You are running in headless mode.
+
+(firefox:16804): GLib-GObject-WARNING **: 10:34:20.199: invalid (NULL) pointer instance
+
+(firefox:16804): GLib-GObject-CRITICAL **: 10:34:20.199: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:16860): GLib-GObject-WARNING **: 10:34:20.568: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:16860): GLib-GObject-CRITICAL **: 10:34:20.568: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:16882): GLib-GObject-WARNING **: 10:34:20.650: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:16882): GLib-GObject-CRITICAL **: 10:34:20.650: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609774461241	Marionette	INFO	Listening on port 45141
+1609774461278	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16962): GLib-GObject-WARNING **: 10:34:21.536: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:16962): GLib-GObject-CRITICAL **: 10:34:21.536: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.042545611126488136, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.042545611126488136, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609774469668	Marionette	INFO	Stopped listening on port 45141
+JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b[a] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -4,21 +4,19 @@
         "title": {
             "tag": "h1",
 				"tag_selector": {
-				"class_name": "title_detail_news",
-	            "id": null
-						}
+                "class": "title_detail_news"
+            }
         },
         "description": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "sapo_detail fr",
-                "id": null
-                }
+            "tag_selector": {
+                "class": "sapo_detail fr"
+            }
         },
         "text": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "pkg",
+            "tag_selector": {
+                "class": "pkg",
                 "id": "cotent_detail"
             }
         }

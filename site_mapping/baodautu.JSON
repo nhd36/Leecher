@@ -3,22 +3,19 @@
     "config": {
         "title": {
             "tag": "div",
-				"tag_selector": {
-				"class_name": "title-detail",
-	            "id": null
-						}
+            "tag_selector": {
+                "class": "title-detail"
+	        }
         },
         "description": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "sapo_detail",
-                "id": null
-                }
+            "tag_selector": {
+                "class": "sapo_detail"
+            }
         },
         "text": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": null,
+            "tag_selector": {
                 "id": "content_detail_news"
             }
         }

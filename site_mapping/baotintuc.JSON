@@ -3,23 +3,20 @@
     "config": {
         "title": {
             "tag": "h1",
-				"tag_selector": {
-				"class_name": "detail-title",
-	            "id": null
-						}
+			"tag_selector": {
+				"class": "detail-title"
+			}
         },
         "description": {
             "tag": "h2",
-                "tag_selector": {
-                "class_name": "sapo",
-                "id": null
-                }
+            "tag_selector": {
+                "class": "sapo"
+            }
         },
         "text": {
             "tag": "div",
-                "tag_selector": {
-                "class_name": "contents",
-                "id": null
+            "tag_selector": {
+                "class": "contents"
             }
         }
     }
