@@ -1,0 +1,26 @@
+{
+    "domain": "dantri.com.vn",
+    "config": {
+        "title": {
+            "tag": "h1",
+				"tag_selector": {
+				"class_name": "dt-news__title",
+	            "id": null
+						}
+        },
+        "description": {
+            "tag": "div",
+                "tag_selector": {
+                "class_name": "dt-news__sapo",
+                "id": null
+                }
+        },
+        "text": {
+            "tag": "div",
+                "tag_selector": {
+                "class_name": "dt-news__content",
+                "id": null
+            }
+        }
+    }
+}

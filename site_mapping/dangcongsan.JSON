@@ -1,0 +1,26 @@
+{
+    "domain": "dangcongsan.vn",
+    "config": {
+        "title": {
+            "tag": "h1",
+				"tag_selector": {
+				"class_name": "post-title",
+	            "id": null
+						}
+        },
+        "description": {
+            "tag": "div",
+                "tag_selector": {
+                "class_name": "post-summary",
+                "id": null
+                }
+        },
+        "text": {
+            "tag": "div",
+                "tag_selector": {
+                "class_name": "post-content",
+                "id": null
+            }
+        }
+    }
+}

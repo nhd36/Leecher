@@ -1,0 +1,26 @@
+{
+    "domain": "vnexpress.vn",
+    "config": {
+        "title": {
+            "tag": "h1",
+				"tag_selector": {
+				"class_name": "title-detail",
+	            "id": null
+						}
+        },
+        "description": {
+            "tag": "p",
+                "tag_selector": {
+                "class_name": "description",
+                "id": null
+                }
+        },
+        "text": {
+            "tag": "p",
+                "tag_selector": {
+                "class_name": "Normal",
+                "id": null
+            }
+        }
+    }
+}

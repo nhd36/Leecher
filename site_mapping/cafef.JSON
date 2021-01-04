@@ -1,0 +1,19 @@
+{
+    "domain": "cafef.vn",
+    "config": {
+        "title": {
+            "tag": "h1",
+				"tag_selector": {
+				"class_name": "title",
+	            "id": null
+						}
+        },
+        "text": {
+            "tag": "span",
+                "tag_selector": {
+                "class_name": null,
+                "id": "mainContent"
+            }
+        }
+    }
+}

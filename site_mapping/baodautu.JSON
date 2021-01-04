@@ -1,0 +1,26 @@
+{
+    "domain": "baodautu.vn",
+    "config": {
+        "title": {
+            "tag": "div",
+				"tag_selector": {
+				"class_name": "title-detail",
+	            "id": null
+						}
+        },
+        "description": {
+            "tag": "div",
+                "tag_selector": {
+                "class_name": "sapo_detail",
+                "id": null
+                }
+        },
+        "text": {
+            "tag": "div",
+                "tag_selector": {
+                "class_name": null,
+                "id": "content_detail_news"
+            }
+        }
+    }
+}
