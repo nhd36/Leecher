@@ -630,3 +630,120 @@ JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1609779493493	geckodriver	INFO	Listening on 127.0.0.1:40711
+1609779494497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNwVwsC"
+*** You are running in headless mode.
+
+(firefox:20204): GLib-GObject-WARNING **: 11:58:14.945: invalid (NULL) pointer instance
+
+(firefox:20204): GLib-GObject-CRITICAL **: 11:58:14.945: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20273): GLib-GObject-WARNING **: 11:58:15.348: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20273): GLib-GObject-CRITICAL **: 11:58:15.348: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20297): GLib-GObject-WARNING **: 11:58:15.458: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20297): GLib-GObject-CRITICAL **: 11:58:15.458: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609779496363	Marionette	INFO	Listening on port 36383
+
+(/usr/lib/firefox/firefox:20371): GLib-GObject-WARNING **: 11:58:16.371: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20371): GLib-GObject-CRITICAL **: 11:58:16.371: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609779496425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.854255237681778, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.854255237681778, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609779513272	Marionette	INFO	Stopped listening on port 36383
+JavaScript error: https://media1.admicro.vn/core/lgnews.js, line 3: TypeError: b[a] is undefined
+1609779996679	geckodriver	INFO	Listening on 127.0.0.1:42333
+1609779997685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSWhW24"
+*** You are running in headless mode.
+
+(firefox:20923): GLib-GObject-WARNING **: 12:06:38.063: invalid (NULL) pointer instance
+
+(firefox:20923): GLib-GObject-CRITICAL **: 12:06:38.063: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:20992): GLib-GObject-WARNING **: 12:06:38.451: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:20992): GLib-GObject-CRITICAL **: 12:06:38.451: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21018): GLib-GObject-WARNING **: 12:06:38.545: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21018): GLib-GObject-CRITICAL **: 12:06:38.545: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609779999462	Marionette	INFO	Listening on port 35759
+
+(/usr/lib/firefox/firefox:21091): GLib-GObject-WARNING **: 12:06:39.470: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21091): GLib-GObject-CRITICAL **: 12:06:39.471: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1609779999510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://media1.admicro.vn/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.004426746410966853, line 3: unreachable code after return statement
+JavaScript warning: https://adi.admicro.vn/adt/cpc/tvcads/files/js/core/adm-tracking.js?v=0.004426746410966853, line 3: unreachable code after return statement
+JavaScript warning: https://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cafef.vn/imf-du-bao-viet-nam-tang-truong-gdp-65-trong-nam-2019-20190717102838593.chn line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609780009612	Marionette	INFO	Stopped listening on port 35759
+1609780067702	geckodriver	INFO	Listening on 127.0.0.1:58659
+1609780067705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5UV5wH"
+*** You are running in headless mode.
+
+(firefox:21299): GLib-GObject-WARNING **: 12:07:48.012: invalid (NULL) pointer instance
+
+(firefox:21299): GLib-GObject-CRITICAL **: 12:07:48.012: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21359): GLib-GObject-WARNING **: 12:07:48.347: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21359): GLib-GObject-CRITICAL **: 12:07:48.347: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:21380): GLib-GObject-WARNING **: 12:07:48.435: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21380): GLib-GObject-CRITICAL **: 12:07:48.435: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609780069149	Marionette	INFO	Listening on port 41265
+1609780069248	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21459): GLib-GObject-WARNING **: 12:07:49.342: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:21459): GLib-GObject-CRITICAL **: 12:07:49.343: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: http://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: http://static.contineljs.com/core/admcoreext.js, line 357: unreachable code after return statement
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://tapchitaichinh.vn/tai-chinh-quoc-te/kinh-te-trung-quoc-tang-truong-vuot-muc-du-bao-trong-quy-ii-325636.html line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609780070712	Marionette	INFO	Stopped listening on port 41265
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
