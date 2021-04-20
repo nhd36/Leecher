@@ -1,5 +1,5 @@
 # Leecher
-HTML Leecher/Crawler: Retrieving content from any URL within configuring the CSS Selector or ID in HTML.
+HTML Leecher/Crawler: Retrieving content from any URL by Selenium by configuring the CSS selectors of HTML file.
 
 
 # TO RUN THIS PROJECT
